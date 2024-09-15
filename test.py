@@ -1,7 +1,4 @@
-# USAGE
-# python aadhar_mask.py --image images/image1.jpeg
-# Created: 02 November 2020
-# Author: Vignesh Desmond
+
 import cv2
 import pytesseract
 import argparse
